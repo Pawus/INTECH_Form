@@ -50,6 +50,9 @@
   <ItemGroup>
     <Compile Include="Models\Form.cs" />
     <Compile Include="INTECH_Form_Tests.cs" />
+    <Compile Include="Models\FormAnswer.cs" />
+    <Compile Include="Models\QuestionBase.cs" />
+    <Compile Include="Models\QuestionRoot.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
